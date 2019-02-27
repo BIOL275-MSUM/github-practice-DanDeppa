@@ -1,5 +1,5 @@
 
-## README
+## GIthub Practice Assignment
 
 This is a Github practice assignment.
 
