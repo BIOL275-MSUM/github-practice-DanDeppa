@@ -1,5 +1,5 @@
 
-## GIthub Practice Assignment
+## Github Practice Assignment
 
 This is a Github practice assignment.
 
